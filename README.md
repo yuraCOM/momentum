@@ -1,2 +1,2 @@
 # momentum
- https://yuracom.github.io/momentum/
+ https://yuracom.github.io/momentum/momentum
