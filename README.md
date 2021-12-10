@@ -2,7 +2,7 @@
 
 сборка с Webpack
 
-мой "индусский код" = 
+мой "индусский код" = https://github.com/yuraCOM/momentum-dev-draft
 
 ![Снимок экрана (294)](https://user-images.githubusercontent.com/25771381/145584654-3e86b17c-2e4e-449e-a592-8e0fd3ca1186.png)
 ![Снимок экрана (295)](https://user-images.githubusercontent.com/25771381/145584657-8b7050e3-bb2f-4601-b1b9-a0e5e0a6096f.png)
